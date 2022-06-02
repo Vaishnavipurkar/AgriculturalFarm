@@ -25,3 +25,5 @@ In this project, I have created an agricultural farming website called Agrowfarm
 ![This is an image](https://github.com/Vaishnavipurkar/finalpro/blob/master/AgriculturalFarm%20(Agrofarm)_services_2.png)
 ##### 4. Contact page
 ![This is an image](https://github.com/Vaishnavipurkar/finalpro/blob/master/AgriculturalFarm%20(Agrofarm)_contact.png)
+##### Azure Portal Image
+![This is an image](https://github.com/Vaishnavipurkar/finalpro/blob/master/azure%20portal%20image.png)
