@@ -13,7 +13,8 @@ In this project, I have created an agricultural farming website called Agrowfarm
 #### **Primary Azure Technology**: 
 1. Static Web Apps   
 2. Visual Studio Code
-## This is website built by me [AgriculturalFarm (Agrofarm)](https://vaishnavipurkar.github.io/finalpro/)
+## This is website built by me using github page [AgriculturalFarm (Agrofarm)](https://vaishnavipurkar.github.io/finalpro/)
+## The azure deployment site is [AgriculturalFarm (Agrofarm)](https://gray-mud-0ce5a3210.1.azurestaticapps.net/)
 #### My Website Images
 ##### 1. Home page
 ![This is an image](https://github.com/Vaishnavipurkar/finalpro/blob/master/AgriculturalFarm%20(Agrofarm)_home.png)
