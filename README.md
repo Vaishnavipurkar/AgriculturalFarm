@@ -6,3 +6,5 @@
 #### **website benefits**: The longevity of the platform, Ease of management, Order Fulfillment, Customer Experience.
 #### **Primary Azure Technology**: 1. Static Web Apps   2. Visual Studio Code
 ## This is website built by me [AgriculturalFarm (Agrofarm)](https://vaishnavipurkar.github.io/finalpro/)
+#### My Website Images
+![This is an image](C:\Users\Vaishnavi\Downloads\agrowfarm-starter_Free09-09-2021_472214104/AgriculturalFarm (Agrofarm)_about.png)
