@@ -7,4 +7,11 @@
 #### **Primary Azure Technology**: 1. Static Web Apps   2. Visual Studio Code
 ## This is website built by me [AgriculturalFarm (Agrofarm)](https://vaishnavipurkar.github.io/finalpro/)
 #### My Website Images
+##### 1. Home page
+![This is an image](https://github.com/Vaishnavipurkar/finalpro/blob/master/AgriculturalFarm%20(Agrofarm)_home.png)
+##### 2. About page
 ![This is an image](https://github.com/Vaishnavipurkar/finalpro/blob/master/AgriculturalFarm%20(Agrofarm)_about.png)
+##### 3. Service page
+![This is an image](https://github.com/Vaishnavipurkar/finalpro/blob/master/AgriculturalFarm%20(Agrofarm)_services.png)
+##### 4. Contact page
+![This is an image](https://github.com/Vaishnavipurkar/finalpro/blob/master/AgriculturalFarm%20(Agrofarm)_contact.png)
